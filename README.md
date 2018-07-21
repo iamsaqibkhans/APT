@@ -1,31 +1,31 @@
-# Lazymux
-![Lazymux](https://github.com/iamsaqibkhans/Lazymux/core/lazymux.png)<br>
-Lazymux tools installer is very easy to use, only provided for lazy termux users.
+# APT APP STORE
+![APT](https://github.com/iamsaqibkhans/APT/core/lazymux.png)<br>
+APT is a tools installer and very easy to use, only provided for n00b termux users.
 
 ### Requirements
 • Python 2.x
 
-#### Installation and Using Lazymux
+#### Installation and Using APT
 ```
-git clone https://github.com/iamsaqibkhans/Lazymux
-```
-```
-cd Lazymux
+git clone https://github.com/iamsaqibkhans/APT
 ```
 ```
-python2 lazymux.py
+cd APT
 ```
+```
+python2 apt.py
+```
+
+
 
 
 
 
-```
-
-```
-```
-
-```
 
 
-```
+
+
+
+
+
 
