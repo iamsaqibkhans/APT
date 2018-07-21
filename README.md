@@ -13,7 +13,10 @@ git clone https://github.com/iamsaqibkhans/APT
 cd APT
 ```
 ```
-python2 apt.py
+chmod +x run.sh
+```
+``` 
+./run.sh (bash run.sh)
 ```
 
 
