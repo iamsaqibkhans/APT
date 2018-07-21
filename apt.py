@@ -1,4 +1,4 @@
-## lazymux.py - Lazymux v3.0
+## apt.py - APT v1.0
 # -*- coding: utf-8 -*-
 import os
 import sys
@@ -15,10 +15,10 @@ def main():
 	print "   [06] Exploitation Tools"
 	print "   [07] Sniffing & Spoofing"
 	print "   [08] Other\n"
-	print "   [10] Exit the Lazymux\n"
-	lazymux = raw_input("lzmx > ")
+	print "   [10] Exit the APT\n"
+	 = raw_input("apt > ")
 	
-	if lazymux == "1" or lazymux == "01":
+	if apt == "1" or apt == "01":
 		print "\n    [01] Nmap"
 		print "    [02] Red Hawk"
 		print "    [03] D-Tect"
